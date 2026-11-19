@@ -55,3 +55,8 @@ tenvv
 
 # Logs
 *.log
+
+# data files 
+DATA/
+
+processed_data/
